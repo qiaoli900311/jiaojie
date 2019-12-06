@@ -1,0 +1,20 @@
+{
+    "name": "qiaoli1206",
+    "title": "qiaoli1206",
+    "description": "",
+    "repository": {
+        "url": "https://github.com/qiaoli900311/jiaojie.git",
+        "private": 1,
+        "auth": {
+            "username": "qiaoli900311",
+            "password": "48111400qiaoli"
+        }
+    },
+    "map": {
+        "components": [],
+        "blocks": [],
+        "pages": [],
+        "templates": []
+    },
+    "materialId": 120
+}
