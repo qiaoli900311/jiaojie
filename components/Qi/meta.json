@@ -1,0 +1,16 @@
+{
+    "name": "qi--",
+    "version": "1.0.0",
+    "title": "qiaoli",
+    "description": "qiaoli",
+    "type": "component",
+    "platform": [
+        "PC"
+    ],
+    "homePage": "/materials/120/diste60f63960f96c7599dcbf3a26012938d/index.html",
+    "category": "qiaoli",
+    "screenshot": "/screenshots/e60f63960f96c7599dcbf3a26012938d.png",
+    "path": "components/Qi",
+    "origin": "https://github.com/qiaoli900311/jiaojie.git",
+    "hash": "e60f63960f96c7599dcbf3a26012938d"
+}
