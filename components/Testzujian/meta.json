@@ -1,0 +1,16 @@
+{
+    "name": "testzujian",
+    "version": "1.0.0",
+    "title": "testzujian",
+    "description": "miaoshu",
+    "type": "component",
+    "platform": [
+        "PC"
+    ],
+    "homePage": "/materials/120/distd47a925cf9c144e9ee4a5cd9c878da9c/index.html",
+    "category": "表单",
+    "screenshot": "/screenshots/d47a925cf9c144e9ee4a5cd9c878da9c.png",
+    "path": "components/Testzujian",
+    "origin": "https://github.com/qiaoli900311/jiaojie.git",
+    "hash": "d47a925cf9c144e9ee4a5cd9c878da9c"
+}
